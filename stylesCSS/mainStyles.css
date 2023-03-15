@@ -379,4 +379,7 @@ nav {
         flex-direction: row;
         justify-content: space-between;
     }
+    .someting{
+        background-color: red;
+    }
 }
